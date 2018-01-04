@@ -1,3 +1,5 @@
+
+
 # Lista de cadeiras do 1º Semestre do 1º Ano
 
 | Sigla | Descrição | Créditos |
@@ -9,3 +11,7 @@
 | `ELETRO` | Eletrónica - Bases de eletricidade + Eletronica AC / DC | 6 |
 | `FISMEC` | Física Mecânica - Estudos do Movimento | 6 |
 
+# Links úteis
+
+[Portal do ISEP](https://portal.isep.ipp.pt/)
+[Moodle do ISEP](https://moodle.isep.ipp.pt/)
